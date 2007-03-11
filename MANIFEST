@@ -2,8 +2,10 @@ Changes
 lib/Proc/InvokeEditor.pm
 Makefile.PL
 MANIFEST
+LICENSE
 README
 t/01_require.t
 t/02_editor.t
-example.pl
-example2.pl
+examples/example.pl
+examples/example2.pl
+META.yml                                 Module meta-data (added by MakeMaker)
