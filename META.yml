@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Proc-InvokeEditor
-version:            1.03
+version:            1.04
 abstract:           Interface to external editor from perl
 author:
     - Michael Stevens <mstevens@etla.org>
